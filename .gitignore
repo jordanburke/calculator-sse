@@ -10,8 +10,9 @@ yarn-error.log*
 dist/
 *.tsbuildinfo
 
-# VS Code
+# IDEs
 .vscode/
+.idea/
 
 # Env & Secrets
 .env
